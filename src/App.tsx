@@ -1,13 +1,16 @@
-import "./styles/global.css";
+import { Heading } from './components/Heading';
+import { Text } from './components/Text';
+import { TextInput } from './components/TextInput';
+import { Logo } from './Logo';
+import { Envelope, Lock } from 'phosphor-react';
+import './styles/global.css';
+import { Checkbox } from './components/Checkbox';
+import { Button } from './components/Button';
+import { SignIn } from './pages/SignIn';
+
 // Bibliotecas interessantes Windstitch e Stitches não usadas no projeto atual
 export function App() {
   return (
-    <>
-      <h1 className="font-bold text-5xl text-violet-500">Hello World</h1>
-
-      <button className="bg-cyan-500 font-medium px-4 py-2 rounded text-white hover:bg-cyan-300">
-        Enviar
-      </button>
-    </>
+    <SignIn />
   );
 }
