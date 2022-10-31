@@ -7,12 +7,18 @@ import '../styles/global.css';
 import { Checkbox } from '../components/Checkbox';
 import { Button } from '../components/Button';
 import { FormEvent, useState } from 'react';
+import axios from 'axios';
 
 export function SignIn() {
   const [isUserSignedIn, setIsUserSignedIn] = useState(false)
 
-  function handleSignIn(event: FormEvent) {
+  async function handleSignIn(event: FormEvent) {
     event.preventDefault();
+
+    await axios.post('/sessions', {
+      email: 'alex@rocketseat.com.br',
+      password: '12345678',
+    })
 
     setIsUserSignedIn(true)
   }
