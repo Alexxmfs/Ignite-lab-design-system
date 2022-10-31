@@ -1,6 +1,4 @@
-<p align="center">
- <img src="https://github.com/Alexxmfs/ignite-lab-design-system/blob/photoProject/photoIgniteLab.PNG" height= "550" />
-</p>
+ <img src="https://github.com/Alexxmfs/ignite-lab-design-system/blob/photoProject/photoIgniteLab.PNG" />
   
 <h1>Rocketseat - Creating a Form</h1>
 
