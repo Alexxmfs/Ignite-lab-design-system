@@ -1,4 +1,4 @@
-<img src="https://www.cyberpunk.net/build/images/edgerunners/phase2/cover-desktop@1x-e6d6aaa1.jpg" />
+<img src="https://github.com/Alexxmfs/ignite-lab-design-system/blob/photoProject/photoIgniteLab.PNG" />
 
 <h1>Rocketseat - Creating a Form</h1>
 
