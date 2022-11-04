@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-=======
+
  <img src="https://github.com/Alexxmfs/ignite-lab-design-system/blob/photoProject/photoIgniteLab.PNG" />
   
 <h1>Rocketseat - Creating a Form</h1>
