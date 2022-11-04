@@ -1,10 +1,7 @@
 <<<<<<< HEAD
-<img src="https://www.cyberpunk.net/build/images/edgerunners/phase2/cover-desktop@1x-e6d6aaa1.jpg" />
-
 =======
  <img src="https://github.com/Alexxmfs/ignite-lab-design-system/blob/photoProject/photoIgniteLab.PNG" />
   
->>>>>>> 42961a6ecf9f6c0faf1b8b97211fb77734f742c6
 <h1>Rocketseat - Creating a Form</h1>
 
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
