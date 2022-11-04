@@ -1,7 +1,5 @@
-<p align="center">
- <img src="https://github.com/Alexxmfs/ignite-lab-design-system/blob/photoProject/photoIgniteLab.PNG" height= "550" />
-</p>
-  
+<img src="https://www.cyberpunk.net/build/images/edgerunners/phase2/cover-desktop@1x-e6d6aaa1.jpg" />
+
 <h1>Rocketseat - Creating a Form</h1>
 
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
@@ -63,11 +61,10 @@ npm run storybook
    <img align="center" alt="Alex-Vscode" height="60" width="60"         src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" hspace="10"  />
 
    <img align="center" alt="Alex-Tailwindcss" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"            hspace="10"       />
- 
-   <img align="center" alt="Alex-Tailwindcss" height="70" width="70" src="https://user-images.githubusercontent.com/1671563/144888802-84346d8f-77c9-4377-98c7-4b0364797978.png" hspace="10" />  
- 
+   
    <img align="center" alt="Alex-React-Navigation" height="60" width="60" src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" hspace="10" />
   
+
 
 
   </div>
