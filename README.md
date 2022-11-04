@@ -12,7 +12,7 @@
 
 **Baixe a última versão**
 ```
-git clone https://github.com/Alexxmfs/Projetos.git
+git clone https://github.com/Alexxmfs/ignite-lab-design-system.git
 ```
 
 **Mudar para o diretório do projeto**
