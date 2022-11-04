@@ -65,7 +65,7 @@ npm run storybook
    
    <img align="center" alt="Alex-React-Navigation" height="60" width="60" src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" hspace="10" />
   
-   <img align="center" alt="Alex-React-Navigation" height="60" width="60" src="https://user-images.githubusercontent.com/1671563/144888802-84346d8f-77c9-4377-98c7-4b0364797978.png" hspace="10" />
+   <img align="center" alt="Alex-React-Navigation" height="80" width="80" src="https://user-images.githubusercontent.com/1671563/144888802-84346d8f-77c9-4377-98c7-4b0364797978.png" hspace="10" />
 
 
 
